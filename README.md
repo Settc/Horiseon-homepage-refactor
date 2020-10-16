@@ -14,8 +14,8 @@ I added comments in order to make some sense of the groupings within the css.
 
 ## Technologies
 Project uses the following languages:
-*HTML 5
-*CSS
+* HTML 5
+* CSS
 
 ## Contributing
 All refactoring done by me, Thomas Whittle
