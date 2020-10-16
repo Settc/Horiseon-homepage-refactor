@@ -12,7 +12,7 @@ page by changing the abundant <div> tags to their appropriate, semantic tags,
 and removed many of the redundancies found within the stylesheet. Further, 
 I added comments in order to make some sense of the groupings within the css.
 
-![Horiseon front page](horiseon-homepage.png)
+![Horiseon front page](horiseon-screenshot.png)
 
 ## Technologies
 Project uses the following languages:
