@@ -18,6 +18,6 @@ Project uses the following languages:
 * CSS
 
 ## Contributing
-All refactoring done by me, Thomas Whittle
+All refactoring done by me, Thomas Whittle\
 Code originally done by Horiseon, Inc developers
 
